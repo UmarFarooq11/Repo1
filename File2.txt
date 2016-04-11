@@ -1,1 +1,2 @@
 First Line add in File2.txt in Master Branch
+Second Line add in File2.txt in Master Branch
